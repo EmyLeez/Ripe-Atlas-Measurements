@@ -1,4 +1,3 @@
-                                                                    # Ripe-Atlas-Measurements
 
 ## Projeto
 
